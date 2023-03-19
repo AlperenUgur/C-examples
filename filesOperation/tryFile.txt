@@ -1,0 +1,1 @@
+Just use a stucture to store both your input table and your table size:

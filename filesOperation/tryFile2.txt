@@ -1,0 +1,9 @@
+Dosya akisindan (stream) veri okur.
+Dosya akışından okunan değerleri, 
+format parametresi ile gösterilen 
+karakter dizisindeki format tanımlayıcılarının 
+sırasına ve veri yapısına uygun olarak, üç nokta (...) ile ifade edilen 
+ve format parametresinden sonra aynı sırayla yer alan değişken parametrelere aktarır.
+Fonksiyonun format parametresi " " karakterleri arasında tanımlanan bir karakter dizisidir.
+ Kontrol dizisi olarak adlandırılan bu karakter dizisinin içinde hem normal karakterler 
+hem de % işareti ile başlayan format tanımlayıcıları adı verilen ifadeler yer alabilir.
